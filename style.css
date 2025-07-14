@@ -1,0 +1,36 @@
+body {
+    background-color: bisque;
+}
+
+header {
+    text-align: center;
+    padding: 15px;
+}
+
+p {
+    font-family: cursive;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    margin: 5px;
+    object-fit: cover;
+}
+
+main {
+    text-align: center;
+    background-color: linen;
+    margin: 30px;
+    margin-right: 250px;
+    margin-left: 250px;
+    border-radius: 20px;
+    ;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: beige;
+}
